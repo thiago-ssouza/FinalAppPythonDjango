@@ -1,11 +1,11 @@
-"# FinalAppPythonDjango"
+# FinalAppPythonDjango
 <br/>
-Author:
+## Author:
 <br/>
 - Thiago Soares de Souza
 <br/>
 <br/>
-Content:
+## Content:
 <br/>
 - Visual Studio Code
 <br/>
@@ -20,12 +20,12 @@ Content:
 - Git bash
 <br/>
 <br/>
-Project - Build a Web App (CRUD) using Django framework, SQLite and Python
+## Project - Build a Web App (CRUD) using Django framework, SQLite and Python
 <br/>
-Subject: Scripting Language (Python)
+## Subject: Scripting Language (Python)
 <br/>
-Third Semester: Winter 2023
+## Third Semester: Winter 2023
 <br/>
-College LaSalle
+## College LaSalle
 <br/>
-Program: Information Technology Programmer-Analyst - ACS (AEC)
+## Program: Information Technology Programmer-Analyst - ACS (AEC)
